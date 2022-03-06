@@ -1,0 +1,13 @@
+site_name: Sistem E-Ticket Wisata
+theme:
+    name: material
+    features:
+        - search.suggest
+        - search.highlight
+        - content.tabs.link
+plugins:
+    - search
+site_url: https://example.com
+nav:
+    - Halaman User: index.md
+    - Halaman Admin: admin.md
